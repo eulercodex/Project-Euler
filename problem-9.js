@@ -12,4 +12,4 @@ for (c = 1000-3; c > 1000/3; c--) {
 }
 console.log("number of iterations "+count);
 console.log('a: '+a+', b: '+b+', c: '+c);
-console.log(a*b*c);4
+console.log(a*b*c);
